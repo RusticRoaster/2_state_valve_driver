@@ -4,6 +4,8 @@
 2 state valve driver    
 Author: Stan Gardner Copyright (c) 2013, All rights reserved  
 Creative Commons BY license  
+http://creativecommons.org/licenses/by/3.0/  
+
 
   
 
