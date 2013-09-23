@@ -1,9 +1,9 @@
 2_state_valve_driver
 ====================
 
-2 state valve driver
-Author: Stan gardner Copyright (c) 2013, All rights reserved
-Creative Commons BY license
+2 state valve driver    
+Author: Stan Gardner Copyright (c) 2013, All rights reserved  
+Creative Commons BY license  
 
   
 
